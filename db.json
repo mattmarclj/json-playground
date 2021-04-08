@@ -1,0 +1,24 @@
+{
+    "booths":[
+        {
+            "id":1,
+            "name":"Universitas Gadjah Mada",
+			"primary_logo":"https://i.ibb.co/D7szX3b/Logo-UGM-P.png",
+			"secondary_logo":"https://i.ibb.co/fGJKZz1/Logo-UGM.png"
+        },
+        {
+            "id":2,
+            "name":"Amikom",
+			"primary_logo":"https://i.ibb.co/QFq1MNq/Logo-Amikom-P.png",
+			"secondary_logo":"https://i.ibb.co/2hhdYBt/Logo-Amikom.png.png"
+        },
+    ],
+	"users":[
+        {
+            "id":1,
+            "username":"myuser",
+			"password":"mypassword"
+        },
+    ],
+
+}
