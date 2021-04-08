@@ -11,14 +11,13 @@
             "name":"Amikom",
 			"primary_logo":"https://i.ibb.co/QFq1MNq/Logo-Amikom-P.png",
 			"secondary_logo":"https://i.ibb.co/2hhdYBt/Logo-Amikom.png.png"
-        },
+        }
     ],
 	"users":[
         {
             "id":1,
             "username":"myuser",
 			"password":"mypassword"
-        },
-    ],
-
+        }
+    ]
 }
